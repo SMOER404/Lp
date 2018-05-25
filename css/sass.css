@@ -1,0 +1,16 @@
+a {
+  font-weight: bold;
+  text-decoration: none; }
+  a:hover {
+    text-decoration: underline; }
+  body.firefox a {
+    font-weight: normal; }
+
+.new {
+  position: absolute;
+  top: 0; }
+
+.navbar__logo-text:hover {
+  color: #8FC63D; }
+
+/*# sourceMappingURL=sass.css.map */
